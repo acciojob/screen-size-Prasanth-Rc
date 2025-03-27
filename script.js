@@ -5,5 +5,3 @@
 }
         
 window.addEventListener("resize", updateSize);
-        
-updateSize();
